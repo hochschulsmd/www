@@ -2,6 +2,16 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/whatsapp",
+      "destination": "https://chat.whatsapp.com/DycBrlQ5mXG9U4mU2j3bbQ",
+      "permanent": false
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://www.instagram.com/smd.frankfurt/",
+      "permanent": false
+    },
+    {
       "source": "/",
       "destination": "https://frankfurt.smd.org",
       "permanent": false
